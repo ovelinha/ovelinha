@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🫀
 
-<!--
-**ovelinha/ovelinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome eh rodolfo
 
-Here are some ideas to get you started:
+- estou estudando  na alura
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce entra em contato comigo 🥇
+
+- rodoelfo132@gmail.com
+- @eae_.ovelinha._
+- ![](https://media.tenor.com/vXdLito9Qt0AAAAd/cat-shaking-head-funny-cat-face.gif)
